@@ -1,1 +1,1 @@
-# Calculadora-with-Python-Tkinter
+# Calculator-with-Python-Tkinter
